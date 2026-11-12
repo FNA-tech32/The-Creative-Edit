@@ -1,0 +1,17 @@
+{
+  "name": "the-creative-edit",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "The Creative Edit \u2014 Creative Studio & Digital Design Agency Website",
+  "scripts": {
+    "dev": "node init && astro dev",
+    "build": "node init && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "astro": "^5.12.3",
+    "tailwindcss": "^4.1.11"
+  }
+}
